@@ -8,7 +8,9 @@ body {
 .navbar {
     width: 100%;
 }
-
+b {
+    font-size: 30px;
+}
 .bg-light {
     background-color: white !important;
 }
@@ -115,4 +117,9 @@ p {
     color: #ccc!important;
     height: 25px;
     margin: auto;
+}
+
+.img-fluid {
+    height: 300px;
+    width: 350px;
 }
