@@ -69,6 +69,7 @@ h3 {
     text-align: center; 
     color: #ffffff !important;
     font-family: Georgia, Times, "Times New Roman", serif;
+    margin-top: 20px;
     
 }
 
@@ -122,4 +123,8 @@ p {
 .img-fluid {
     height: 300px;
     width: 350px;
+}
+
+.contact {
+    margin-top:50px;
 }
