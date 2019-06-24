@@ -69,8 +69,11 @@ h3, h4 {
     text-align: center; 
     color: #ffffff !important;
     font-family: Georgia, Times, "Times New Roman", serif;
-    margin-top: 20px;
-    
+    margin-top: 20px;  
+}
+
+h6 {
+    font-size: .75rem;
 }
 
 .word-tag {
