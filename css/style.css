@@ -74,6 +74,7 @@ h3, h4 {
 
 h6 {
     font-size: .75rem;
+
 }
 
 .word-tag {
@@ -108,6 +109,9 @@ p {
     font-size: 50px;
     background:#4aaaa5;
     padding-top: 15px;
+}
+.card-text {
+    font-size: 25px;
 }
 
 
@@ -152,4 +156,9 @@ p {
 
 .contact {
     margin-top:50px;
+}
+
+b{
+    font-size: .75rem;
+    font-weight: 1000;
 }
