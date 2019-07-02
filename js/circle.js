@@ -44,11 +44,11 @@
 			
 			$('.dotCircle').css({
 				"transform":"rotate("+(360-(i-1)*36)+"deg)",
-				"transition":"2s"
+				"transition":"1s"
 			});
 			$('.itemDot').css({
 				"transform":"rotate("+((i-1)*36)+"deg)",
-				"transition":"1s"
+				"transition":".5s"
 			});
 			
 			
